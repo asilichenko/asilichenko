@@ -4,7 +4,8 @@
 
 Здесь выкладываю собственные наработки небольших проектов для открытого доступа.
 
-Также, у меня есть Youtube канал https://www.youtube.com/channel/UCIwDWo5UjdLIfl9PK27zYxg и Blogspot https://asilichenko.blogspot.com
+Youtube канал https://www.youtube.com/channel/UCIwDWo5UjdLIfl9PK27zYxg
+Страница на Blogspot https://asilichenko.blogspot.com
 
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
