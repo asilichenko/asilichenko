@@ -1,10 +1,8 @@
-Здесь выложены мои небольшие проекты для открытого доступа.
+Here I publish my small projects.
 
-> Пишите свой код так, как-будто сопровождать его будет склонный к насилию психопат, который знает, где вы живёте.
+My Youtube channel https://www.youtube.com/channel/UCIwDWo5UjdLIfl9PK27zYxg
 
-Youtube канал https://www.youtube.com/channel/UCIwDWo5UjdLIfl9PK27zYxg
-
-Страница на Blogspot https://asilichenko.blogspot.com
+My page on Blogspot https://asilichenko.blogspot.com
 
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
