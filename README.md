@@ -1,8 +1,8 @@
 Here I publish my small projects.
 
-My Youtube channel https://www.youtube.com/channel/UCIwDWo5UjdLIfl9PK27zYxg
+[My Youtube channel](https://www.youtube.com/AlexeySilichenko)
 
-My page on Blogspot https://asilichenko.blogspot.com
+[My page on Blogspot](https://asilichenko.blogspot.com)
 
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
