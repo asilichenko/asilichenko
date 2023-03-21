@@ -18,7 +18,7 @@ Swing:
 
 * [SECOM cipher GUI](https://github.com/asilichenko/secom-cipher-gui)
 * [Wrapping html text inside JEditorPane](https://github.com/asilichenko/swing-html-paragraph-wrap)
-* [Scaling by mouse](https://github.com/asilichenko/mouse-move-scale)
+* [Zoom by mouse](https://github.com/asilichenko/mouse-move-scale)
 
 Statistics:
 
