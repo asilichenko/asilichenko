@@ -11,7 +11,7 @@ Cryptography:
 
 Algorithms:
 
-* [Ant coloy optimization](https://github.com/asilichenko/ant-colony-optimization)
+* [Ant colony optimization](https://github.com/asilichenko/ant-colony-optimization)
 * [Simulated annealing](https://github.com/asilichenko/simulated-annealing)
 
 Swing:
