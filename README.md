@@ -1,5 +1,7 @@
 Here I publish my small projects.
 
+[My resume](Oleksii-Sylichenko-Java-Full-Stack-20230406.pdf)
+
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,4 +19,3 @@ You can click the Preview link to take a look at your changes.
 | [Energy saving on/off timer](https://github.com/asilichenko/Autowatering) | [Quantum entaglement experiment](https://github.com/asilichenko/quantum-entanglement-experiment) |
 | [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice) |  |
 | [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit) |  |
-
