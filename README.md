@@ -1,6 +1,6 @@
 Here I publish my small projects.
 
-[My resume](Oleksii-Sylichenko-Java-Full-Stack-20230406.pdf)
+[:bookmark_tabs: My resume](Oleksii-Sylichenko-Java-Full-Stack-20230406.pdf)
 
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
