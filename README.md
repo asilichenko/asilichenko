@@ -17,3 +17,7 @@ You can click the Preview link to take a look at your changes.
 |  | [Energy saving on/off timer](https://github.com/asilichenko/Autowatering) | [Quantum entaglement experiment](https://github.com/asilichenko/quantum-entanglement-experiment) |
 |  | [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice) |  |
 |  | [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit) |  |
+
+My Gists:
+* [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
+* [JUnit5 Jupiter unit and parametrized tests example](https://gist.github.com/asilichenko/d954f7f619bba9a26ac5be7f77f321ea)
