@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/asilichenko/arduino-play-melody">Play melody and blink the LED to the beat</a></td>
+    <td><a href="https://github.com/asilichenko/arduino-play-melody">Christmas lights synchronized to the music beat</a></td>
     <td></td>
   </tr>
 </table>
