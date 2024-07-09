@@ -38,43 +38,36 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <th>Android</th>
-    <th>Arduino</th>
     <th>Misc</th>
   </tr>
   
   <tr>
     <td><a href="https://github.com/asilichenko/screen-orientation-example">Example how switch between two activites by screen orientation</a></td>
-    <td><a href="https://github.com/asilichenko/ShiftRegDisplay">Display 9 digits via shift register</a></td>
     <td><a href="https://github.com/asilichenko/batcherSort">Batcher (parralel) sort</a></td>
   </tr>
   
   <tr>
     <td><a href="https://github.com/asilichenko/android-map-with-panorama-sample">Custom combination of Google Maps and StreetView</a></td>
-    <td><a href="https://github.com/asilichenko/clap-switch">Clap switch</a></td>
     <td><a href="https://github.com/asilichenko/TableViewResizePolicy">JavaFX TableView resize policy</a></td>
   </tr>
   
   <tr>
     <td><a href="https://github.com/asilichenko/android-shared-text-receiver">Example how to correctly receive shared data</a></td>
-    <td><a href="https://github.com/asilichenko/Autowatering">Energy saving on/off timer</a></td>
     <td><a href="https://github.com/asilichenko/quantum-entanglement-experiment">Quantum entaglement experiment</a></td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/asilichenko/android-short-edges">Android fullscreen layout even in the landscape mode</a></td>
-    <td><a href="https://github.com/asilichenko/attiny85-dice">Dice on ATTiny85</a></td>
     <td></td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/asilichenko/android-youtube-shared">Youtube link converter</a></td>
-    <td><a href="https://github.com/asilichenko/OneWireDataTransmit">One wire communication protocol</a></td>
     <td></td>
   </tr>
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/asilichenko/arduino-play-melody">Christmas lights synchronized to the music beat</a></td>
     <td></td>
   </tr>
 </table>
@@ -84,6 +77,16 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/asilichenko/asilichenko/assets/1503214/fea7aaab-e68f-4797-9a2c-438ff3c6eee7" height="64"/>
 
 [Keyboard layout switcher with only one hot-key](https://github.com/asilichenko/one-key-keyboard-switcher)
+
+## Arduino
+
+- [Analyse and emulate the BMS microchip (gas gauging device BQ28Z610) of the battery for the JBL XTREME 2 Bluetooth Speaker](jbl-xtreme2-bms)
+- [Christmas lights synchronized to the music beat](arduino-play-melody)
+- [Display 9 digits via shift register](ShiftRegDisplay)
+- [Clap switch](clap-switch)
+- [Energy saving on/off timer](Autowatering)
+- [Dice on ATTiny85](attiny85-dice)
+- [One wire communication protocol](OneWireDataTransmit)
 
 # Gists
 * [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
