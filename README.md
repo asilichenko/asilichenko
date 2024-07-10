@@ -5,6 +5,8 @@ asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+## Java
+
 <table>
   <tr>
     <th>Cryptography</th>
@@ -35,6 +37,11 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
+### Miscellaneous
+- [Batcher (parralel) sort](https://github.com/asilichenko/batcherSort)
+- [JavaFX TableView resize policy](https://github.com/asilichenko/TableViewResizePolicy)
+- [Quantum entaglement experiment](https://github.com/asilichenko/quantum-entanglement-experiment)
+
 ## Android
 
 - [Example how switch between two activites by screen orientation](https://github.com/asilichenko/screen-orientation-example)
@@ -57,11 +64,6 @@ You can click the Preview link to take a look at your changes.
 - [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice)
 - [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
 
-## Miscellaneous
-- [Batcher (parralel) sort](https://github.com/asilichenko/batcherSort)
-- [JavaFX TableView resize policy](https://github.com/asilichenko/TableViewResizePolicy)
-- [Quantum entaglement experiment](https://github.com/asilichenko/quantum-entanglement-experiment)
-
-# Gists
+## Gists
 * [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
 * [JUnit5 Jupiter unit and parametrized tests example](https://gist.github.com/asilichenko/d954f7f619bba9a26ac5be7f77f321ea)
