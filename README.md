@@ -1,4 +1,4 @@
-Here I publish my pet projects.
+# My pet projects
 
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,48 +35,17 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th>Android</th>
-    <th>Misc</th>
-  </tr>
-  
-  <tr>
-    <td><a href="https://github.com/asilichenko/screen-orientation-example">Example how switch between two activites by screen orientation</a></td>
-    <td><a href="https://github.com/asilichenko/batcherSort">Batcher (parralel) sort</a></td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://github.com/asilichenko/android-map-with-panorama-sample">Custom combination of Google Maps and StreetView</a></td>
-    <td><a href="https://github.com/asilichenko/TableViewResizePolicy">JavaFX TableView resize policy</a></td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://github.com/asilichenko/android-shared-text-receiver">Example how to correctly receive shared data</a></td>
-    <td><a href="https://github.com/asilichenko/quantum-entanglement-experiment">Quantum entaglement experiment</a></td>
-  </tr>
+## Android
 
-  <tr>
-    <td><a href="https://github.com/asilichenko/android-short-edges">Android fullscreen layout even in the landscape mode</a></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/asilichenko/android-youtube-shared">Youtube link converter</a></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+- [Example how switch between two activites by screen orientation](https://github.com/asilichenko/screen-orientation-example)
+- [Custom combination of Google Maps and StreetView](https://github.com/asilichenko/android-map-with-panorama-sample)
+- [Example how to correctly receive shared data](https://github.com/asilichenko/android-shared-text-receiver)
+- [Android fullscreen layout even in the landscape mode](https://github.com/asilichenko/android-short-edges)
+- [Youtube link converter](https://github.com/asilichenko/android-youtube-shared)
 
 ## Python
 
-<img src="https://github.com/asilichenko/asilichenko/assets/1503214/fea7aaab-e68f-4797-9a2c-438ff3c6eee7" height="64"/>
-
-[Keyboard layout switcher with only one hot-key](https://github.com/asilichenko/one-key-keyboard-switcher)
+- [Keyboard layout switcher with only one hot-key](https://github.com/asilichenko/one-key-keyboard-switcher)
 
 ## Arduino
 
@@ -87,6 +56,11 @@ You can click the Preview link to take a look at your changes.
 - [Energy saving on/off timer](https://github.com/asilichenko/Autowatering)
 - [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice)
 - [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
+
+## Miscellaneous
+- [Batcher (parralel) sort](https://github.com/asilichenko/batcherSort)
+- [JavaFX TableView resize policy](https://github.com/asilichenko/TableViewResizePolicy)
+- [Quantum entaglement experiment](https://github.com/asilichenko/quantum-entanglement-experiment)
 
 # Gists
 * [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
