@@ -1,4 +1,4 @@
-# My pet projects
+# My Pet Projects
 
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,6 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Arduino
 
+- [Custom Arduino Driver for Battery Gas Gauging Device BQ28Z610](https://github.com/asilichenko/bq28z610-arduino-driver)
 - [Analyse and emulate the BMS microchip (gas gauging device BQ28Z610) of the battery for the JBL XTREME 2 Bluetooth Speaker](https://github.com/asilichenko/jbl-xtreme2-bms)
 - [Christmas lights synchronized to the music beat](https://github.com/asilichenko/arduino-play-melody)
 - [Display 9 digits via shift register](https://github.com/asilichenko/ShiftRegDisplay)
