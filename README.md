@@ -66,5 +66,6 @@ You can click the Preview link to take a look at your changes.
 - [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
 
 ## Gists
+* [Li-Ion Open Circuit Voltage (OCV) by Depth of Discharge (DOD) lookup table generator](https://gist.github.com/asilichenko/342613acfcdbc697a07831bb4a82d4ea)
 * [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
 * [JUnit5 Jupiter unit and parametrized tests example](https://gist.github.com/asilichenko/d954f7f619bba9a26ac5be7f77f321ea)
