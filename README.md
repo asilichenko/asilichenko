@@ -1,11 +1,9 @@
-# My Pet Projects
-
 <!---
 asilichenko/asilichenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Java
+# Java
 
 <table>
   <tr>
@@ -37,12 +35,12 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-### Miscellaneous
+## Miscellaneous
 - [Batcher (parralel) sort](https://github.com/asilichenko/batcherSort)
 - [JavaFX TableView resize policy](https://github.com/asilichenko/TableViewResizePolicy)
 - [Quantum entaglement experiment](https://github.com/asilichenko/quantum-entanglement-experiment)
 
-## Android
+# Android
 
 - [Example how switch between two activites by screen orientation](https://github.com/asilichenko/screen-orientation-example)
 - [Custom combination of Google Maps and StreetView](https://github.com/asilichenko/android-map-with-panorama-sample)
@@ -50,11 +48,11 @@ You can click the Preview link to take a look at your changes.
 - [Android fullscreen layout even in the landscape mode](https://github.com/asilichenko/android-short-edges)
 - [Youtube link converter](https://github.com/asilichenko/android-youtube-shared)
 
-## Python
+# Python
 
 - [Keyboard layout switcher with only one hot-key](https://github.com/asilichenko/one-key-keyboard-switcher)
 
-## Arduino
+# Arduino
 
 - [Custom Arduino Driver for Battery Gas Gauging Device BQ28Z610](https://github.com/asilichenko/bq28z610-arduino-driver)
 - [Analyse and emulate the BMS microchip (gas gauging device BQ28Z610) of the battery for the JBL XTREME 2 Bluetooth Speaker](https://github.com/asilichenko/jbl-xtreme2-bms)
@@ -65,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 - [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice)
 - [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
 
-## Gists
+# Gists
 * [Li-Ion Open Circuit Voltage (OCV) by Depth of Discharge (DOD) lookup table generator](https://gist.github.com/asilichenko/342613acfcdbc697a07831bb4a82d4ea)
 * [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
 * [JUnit5 Jupiter unit and parametrized tests example](https://gist.github.com/asilichenko/d954f7f619bba9a26ac5be7f77f321ea)
