@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 - [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
 
 # Gists
+* [Python Multiprocessing: Shared Value and Shared Array](https://gist.github.com/asilichenko/aedd74c97c757d3ace205b045ea6c24c)
 * [Running Python Code on GPU using CUDA Technology (Python CUDA GPU "Hello World!")](https://gist.github.com/asilichenko/a224781f46887568f0b90b2f9d059918)
 * [Li-Ion Open Circuit Voltage (OCV) by Depth of Discharge (DOD) lookup table generator](https://gist.github.com/asilichenko/342613acfcdbc697a07831bb4a82d4ea)
 * [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
