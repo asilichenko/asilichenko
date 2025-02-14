@@ -16,29 +16,17 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td><a href="https://github.com/asilichenko/enigma">Enigma</a></td>
     <td><a href="https://github.com/asilichenko/ant-colony-optimization">Ant colony optimization</a></td>
-    <td><a href="https://github.com/asilichenko/secom-cipher-gui">SECOM cipher GUI</a></td>
+    <td><a href="https://github.com/asilichenko/swing-html-paragraph-wrap">Wrapping html text inside JEditorPane</a></td>
     <td><a href="https://github.com/asilichenko/statistics">Normal distibution probalility</a></td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/asilichenko/secom-cipher-gui">SECOM cipher GUI</a></td>
     <td><a href="https://github.com/asilichenko/simulated-annealing">Simulated annealing</a></td>
-    <td><a href="https://github.com/asilichenko/swing-html-paragraph-wrap">Wrapping html text inside JEditorPane</a></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td></td>
     <td><a href="https://github.com/asilichenko/mouse-move-scale">Zoom by mouse</a></td>
     <td></td>
   </tr>
 </table>
-
-## Miscellaneous
-- [Batcher (parralel) sort](https://github.com/asilichenko/batcherSort)
-- [JavaFX TableView resize policy](https://github.com/asilichenko/TableViewResizePolicy)
-- [Quantum entaglement experiment](https://github.com/asilichenko/quantum-entanglement-experiment)
 
 # Android
 
