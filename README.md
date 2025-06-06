@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 # Python
 
 - [Keyboard layout switcher with only one hot-key](https://github.com/asilichenko/one-key-keyboard-switcher)
+- [Calibrate Quartz Clock with Arduino](https://github.com/asilichenko/quartz-clock-calibration)
 
 # Arduino
 
@@ -46,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 - [Analyse and emulate the BMS microchip (gas gauging device BQ28Z610) of the battery for the JBL XTREME 2 Bluetooth Speaker](https://github.com/asilichenko/jbl-xtreme2-bms)
 - [Christmas lights synchronized to the music beat](https://github.com/asilichenko/arduino-play-melody)
 - [Display 9 digits via shift register](https://github.com/asilichenko/ShiftRegDisplay)
+- [Calibrate DS1302 module](https://github.com/asilichenko/quartz-clock-calibration)
 - [Clap switch](https://github.com/asilichenko/clap-switch)
 - [Energy saving on/off timer](https://github.com/asilichenko/Autowatering)
 - [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice)
