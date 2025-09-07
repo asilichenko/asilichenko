@@ -56,6 +56,7 @@ You can click the Preview link to take a look at your changes.
 # Gists
 * [Quantum Mechanics in Simple Terms for Programmers: from “pip install” to “ϕ-”](https://gist.github.com/asilichenko/561988a5fb1fb9fcd670408583bc4019)
 * [Quantum Mechanics in Action: Two Wigner's friends](https://gist.github.com/asilichenko/82faa008eef919dc95d4942510950c7d)
+* [Quantum Entanglement: How One Qubit Can Tell What the Other Does](https://gist.github.com/asilichenko/5168d8a6c0769cf3e6247c5553dd65b6)
 * [How to use CUDA const array in Python](https://gist.github.com/asilichenko/7428a554a1cb23777498c4c622835ec2)
 * [Python Multiprocessing: Shared Value and Shared Array](https://gist.github.com/asilichenko/aedd74c97c757d3ace205b045ea6c24c)
 * [Running Python Code on GPU using CUDA Technology (Python CUDA GPU "Hello World!")](https://gist.github.com/asilichenko/a224781f46887568f0b90b2f9d059918)
