@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 - [Custom Arduino Driver for Battery Gas Gauging Device BQ28Z610](https://github.com/asilichenko/bq28z610-arduino-driver)
 - [Analyse and emulate the BMS microchip (gas gauging device BQ28Z610) of the battery for the JBL XTREME 2 Bluetooth Speaker](https://github.com/asilichenko/jbl-xtreme2-bms)
+- [I2C Tester](https://github.com/asilichenko/i2c_tester) - Scan for I2C devices and perform read/write operations based on commands from the Serial Monitor.
 - [Christmas lights synchronized to the music beat](https://github.com/asilichenko/arduino-play-melody)
 - [Display 9 digits via shift register](https://github.com/asilichenko/ShiftRegDisplay)
 - [Calibrate DS1302 module](https://github.com/asilichenko/quartz-clock-calibration)
