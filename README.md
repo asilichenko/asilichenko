@@ -67,3 +67,6 @@ You can click the Preview link to take a look at your changes.
 * [Obtain Place location by Google Maps CID](https://gist.github.com/asilichenko/b0000eb1562c9e4e75b0d43d799260bc)
 * [JUnit5 Jupiter unit and parametrized tests example](https://gist.github.com/asilichenko/d954f7f619bba9a26ac5be7f77f321ea)
 * [Convert Keyboard Layout ID (HKL) to KLID in Python Win32](https://gist.github.com/asilichenko/a4932ea82d9b5ead3896f154e9695c77)
+
+# Other
+* [Дихальна вправа](https://github.com/asilichenko/breathing-app)
