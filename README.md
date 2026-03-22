@@ -70,3 +70,4 @@ You can click the Preview link to take a look at your changes.
 
 # Other
 * [Дихальна вправа](https://github.com/asilichenko/breathing-app)
+* [Chess Drill • Шаховий тренажер](https://github.com/asilichenko/chess-drill)
