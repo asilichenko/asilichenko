@@ -54,6 +54,9 @@ You can click the Preview link to take a look at your changes.
 - [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice)
 - [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
 
+# C#
+- [Minimal app to test Clipboard.SetText behavior with Cyrillic](https://github.com/asilichenko/csharp-clipboard-test)
+
 # Gists
 * Quantum Mechanics:
   * [Quantum Mechanics in Simple Terms for Programmers: from “pip install” to “ϕ-”](https://gist.github.com/asilichenko/561988a5fb1fb9fcd670408583bc4019)
