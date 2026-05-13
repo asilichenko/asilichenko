@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 # Python
 
 - [Keyboard layout switcher with only one hot-key](https://github.com/asilichenko/one-key-keyboard-switcher)
+- [Display keys overlay](https://github.com/asilichenko/key-overlay)
 - [Calibrate Quartz Clock with Arduino](https://github.com/asilichenko/quartz-clock-calibration)
 
 # Arduino
