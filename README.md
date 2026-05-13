@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 # Python
 
-- [Keyboard layout switcher with only one hot-key](https://github.com/asilichenko/one-key-keyboard-switcher)
+- [OneKey Layout Switcher](https://github.com/asilichenko/one-key-keyboard-switcher) - Switch keyboard layout with just one key and show the flag of the currently active keyboard layout.
 - [Display keys overlay](https://github.com/asilichenko/key-overlay) - Show keys pressed state in the overlay.
 - [Keyboard Layout Info](https://github.com/asilichenko/keyboard-layout-info) - Show info of the current active and list of installed keyboard layouts.
 - [Calibrate Quartz Clock with Arduino](https://github.com/asilichenko/quartz-clock-calibration)
