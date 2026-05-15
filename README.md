@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 - [Display keys overlay](https://github.com/asilichenko/key-overlay) - Show keys pressed state in the overlay.
 - [Keyboard Layout Info](https://github.com/asilichenko/keyboard-layout-info) - Show info of the current active and list of installed keyboard layouts.
 - [Calibrate Quartz Clock with Arduino](https://github.com/asilichenko/quartz-clock-calibration)
+- [PySide Example](https://github.com/asilichenko/pyside-example) - Sample project for learning how to create a proper PySide project structure and architecture. 
 
 # Arduino
 
