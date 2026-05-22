@@ -55,7 +55,8 @@ You can click the Preview link to take a look at your changes.
 - [Clap switch](https://github.com/asilichenko/clap-switch)
 - [Energy saving on/off timer](https://github.com/asilichenko/Autowatering)
 - [Dice on ATTiny85](https://github.com/asilichenko/attiny85-dice)
-- [One wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
+- [Custom One-wire communication protocol](https://github.com/asilichenko/OneWireDataTransmit)
+- [1-Wire Bus Test](https://github.com/asilichenko/arduino-onewire-master-slave-lab) - Standard master and custom slave implementation for oscilloscope signal analysis
 
 # C#
 - [Minimal app to test Clipboard.SetText behavior with Cyrillic](https://github.com/asilichenko/csharp-clipboard-test)
