@@ -77,5 +77,6 @@ You can click the Preview link to take a look at your changes.
 * [Calculate Publisher Id hash by Python for APPX-management purposes](https://gist.github.com/asilichenko/cc399bb6741f3b7d2a6e3e9594505ac7)
 
 # Other
-* [Дихальна вправа](https://github.com/asilichenko/breathing-app)
-* [Chess Drill • Шаховий тренажер](https://github.com/asilichenko/chess-drill)
+* [Дихальна вправа](https://github.com/asilichenko/breathing-app) - Breathe in and out on a timer to soothe the nervous system.
+* [Chess Drill • Шаховий тренажер](https://github.com/asilichenko/chess-drill) - Practice your chess skills on exercises.
+* [Volume Taper Simulator](https://github.com/asilichenko/volume-taper-simulator) - Simulate and visualize logarithmic volume control using potentiometer, serial and shunt resistors.
