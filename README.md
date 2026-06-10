@@ -76,6 +76,7 @@ You can click the Preview link to take a look at your changes.
 * [Convert Keyboard Layout ID (HKL) to KLID in Python Win32](https://gist.github.com/asilichenko/a4932ea82d9b5ead3896f154e9695c77)
 * [Calculate Publisher Id hash by Python for APPX-management purposes](https://gist.github.com/asilichenko/cc399bb6741f3b7d2a6e3e9594505ac7)
 * [Non-GUI PySide6 QThread example with correct life-cycle management](https://gist.github.com/asilichenko/0336cc5d8983f4656d2d6ee715fb74ce)
+* [GUI PySide6 QThread example with correct life-cycle management](https://gist.github.com/asilichenko/6392942d2256993287161cde9dbb9526)
 
 # Other
 * [Дихальна вправа](https://github.com/asilichenko/breathing-app) - Breathe in and out on a timer to soothe the nervous system.
