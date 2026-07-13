@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 - [Custom combination of Google Maps and StreetView](https://github.com/asilichenko/android-map-with-panorama-sample)
 - [Example how to correctly receive shared data](https://github.com/asilichenko/android-shared-text-receiver)
 - [Android fullscreen layout even in the landscape mode](https://github.com/asilichenko/android-short-edges)
+- [Edge-to-Edge Demo App (Jetpack Compose)](https://github.com/asilichenko/short-edges-compose-demo)
 - [Youtube link converter](https://github.com/asilichenko/android-youtube-shared)
 
 # Python
