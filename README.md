@@ -84,3 +84,7 @@ You can click the Preview link to take a look at your changes.
 * [Дихальна вправа](https://github.com/asilichenko/breathing-app) - Breathe in and out on a timer to soothe the nervous system.
 * [Chess Drill • Шаховий тренажер](https://github.com/asilichenko/chess-drill) - Practice your chess skills on exercises.
 * [Volume Taper Simulator](https://github.com/asilichenko/volume-taper-simulator) - Simulate and visualize logarithmic volume control using potentiometer, serial and shunt resistors.
+
+---
+
+[![Support me](https://img.shields.io/badge/Support%20me-Donate-blue?style=for-the-badge)](https://send.monobank.ua/jar/6FyCuwtrPA)
